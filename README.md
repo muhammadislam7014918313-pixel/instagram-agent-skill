@@ -1,4 +1,4 @@
-ok # The Instagram agent skill
+ # The Instagram agent skill
 
 Thirteen Claude skills that run an Instagram account. Free, MIT, no signup, no
 API key, nothing to connect.
